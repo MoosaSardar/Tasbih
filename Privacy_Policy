@@ -1,0 +1,26 @@
+Last updated: August 29, 2026
+1. Introduction Welcome to Tasbih. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+2. Information We Collect We collect minimal information necessary to provide and improve our services:
+•
+Authentication Data: When you create an account via Email or Google Sign-In, we collect your email address and basic profile information (such as your name).
+•
+Usage Data: We store your recitation counts (Zikar) and app settings to allow synchronization across your devices.
+3. How We Use Your Information We use the collected information for the following purposes:
+•
+To authenticate your identity and provide secure access to your account.
+•
+To back up and synchronize your data in the cloud using Firebase (Google Cloud).
+•
+To provide customer support and respond to your inquiries.
+4. Third-Party Services The app uses the following third-party services that may collect information used to identify you:
+•
+Google Play Services: Used for app distribution and core functionality.
+•
+Firebase Authentication & Firestore: Used for user account management and data storage.
+•
+Google Sign-In: Used for simplified user authentication.
+5. Future Advertising (AdMob) Please note that in the future, we may incorporate Google AdMob to display advertisements within the app. If implemented, AdMob may collect and use information such as your device's advertising ID to serve personalized or non-personalized ads. We will update this policy and provide notice within the app before this change takes effect.
+6. Data Security We prioritize the security of your data. We use industry-standard encryption and security protocols provided by Google Firebase to protect your information from unauthorized access or disclosure.
+7. Data Retention & Deletion We retain your information as long as your account is active. You may request the deletion of your account and all associated data at any time by contacting us or using the in-app delete feature (if available).
+8. Changes to This Policy We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+9. Contact Us If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [moosasardar9@gmail.com]
